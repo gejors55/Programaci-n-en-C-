@@ -1,0 +1,54 @@
+ Esta tabla de indices tiene un tamanno: 24
+
+
+              Clave | Indice
+
+
+
+       arquitectura | [arquitectura.txt]
+
+             aunque | [Indice.txt]
+
+                 de | [Indice.txt,arquitectura.txt,facultades.txt]
+
+                del | [Indice.txt,arquitectura.txt]
+
+         demandadas | [facultades.txt]
+
+           edificio | [Indice.txt,arquitectura.txt]
+
+                 el | [Indice.txt,arquitectura.txt]
+
+              entre | [facultades.txt]
+
+                 es | [Indice.txt,arquitectura.txt]
+
+               esta | [facultades.txt]
+
+              estan | [Indice.txt]
+
+           facultad | [Indice.txt,arquitectura.txt,facultades.txt]
+
+         facultades | [Indice.txt,facultades.txt]
+
+        informatica | [Indice.txt,facultades.txt]
+
+                 la | [Indice.txt,arquitectura.txt,facultades.txt]
+
+                las | [Indice.txt,facultades.txt]
+
+                los | [Indice.txt]
+
+                mal | [Indice.txt]
+
+                mas | [facultades.txt]
+
+              mejor | [Indice.txt,arquitectura.txt]
+
+              mundo | [Indice.txt,arquitectura.txt]
+
+               nada | [Indice.txt]
+
+                 no | [Indice.txt,arquitectura.txt]
+
+              otras | [Indice.txt]
