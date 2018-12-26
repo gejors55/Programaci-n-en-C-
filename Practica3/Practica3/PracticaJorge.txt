@@ -1,0 +1,33 @@
+Hacer_mov{
+int fdestino, cdestino;  -- para controlar a donde vas
+int caja destinof, cajadestinoc; // para case caja
+switch(tecla){
+case arriba: fdestino = f-1; cDestino = c -1;
+case abajo: fdestino = f+1 cdestino = c+1;
+.....
+//solo configuro estos 4 movs, y no hacen falta mas;
+}
+
+bool mov = true;
+
+switch(juego.sokoban.tablero[fdestino][cdestino]){
+case muro: mov =false;
+case libre: juego.sokoban.tablero[fdestino][cdestino]= jugador;
+ juego.sokoban.tablero[f][c]= libre;
+case destinoLibre:juego.sokoban.tablero[fdestino][cdestino]= destino j;
+case caja: ////tienes que ver la siguiente dependiendo de la direccion en la que ya vas; CONTROLAR 3 POSICIONES, la mia a la que voy y la de la caja
+if(juego.sokoban.tablero[cajadestinof][cajadestinoc]==libre){
+//si se puede mover, si no nooo;
+
+}
+
+
+
+if(mov)
+//actualizarrrrrrrrrrrrr
+
+}
+
+
+
+//evitar if elseif elseif else y hacer switch;
